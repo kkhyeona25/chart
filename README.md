@@ -14,3 +14,7 @@
 <img src="https://user-images.githubusercontent.com/73156914/101952944-d2f66700-3c3c-11eb-8a3f-ac0a75502bd2.png">
 <img src="https://user-images.githubusercontent.com/73156914/101952946-d38efd80-3c3c-11eb-9a92-20a0170c7303.png">
 <img src="https://user-images.githubusercontent.com/73156914/101952949-d4279400-3c3c-11eb-89e8-32955c864ac2.png">
+
+
+![django_covid19](https://user-images.githubusercontent.com/73156914/102071241-8b8df780-3e43-11eb-8039-0f22266b6a10.png)
+![django_covid19_local](https://user-images.githubusercontent.com/73156914/102071245-8cbf2480-3e43-11eb-976a-0cad93e8ce5e.png)
